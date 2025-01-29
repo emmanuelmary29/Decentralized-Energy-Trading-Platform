@@ -7,3 +7,7 @@ W
 'tests/energy-asset-registration.test.ts,7/0/703a34e5799e9b6aa221cb9b99a9c879ae993537
 Q
 !contracts/energy-savings-nft.clar,7/6/76d1882bbd61be896c0b1916f8fbbe6dfd80a726
+P
+ tests/energy-savings-nft.test.ts,5/e/5ebf4c339afd7f9cffba4420538195888e89530b
+M
+contracts/energy-trading.clar,6/d/6d7212ff31b8b2c7ed59770341c7a8a4407ae036
