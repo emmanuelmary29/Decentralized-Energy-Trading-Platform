@@ -64,4 +64,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/energy-trading.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: home-energy-management
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/home-energy-management.clar
+            clarity-version: 2
       epoch: "2.5"
